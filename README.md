@@ -1,4 +1,4 @@
-Hey, I’m Ashmit 👋  a Fullstack Developer 💻 and BCA student 🎓 at Pokhara University. I’m all about building cool stuff, leveling up in system 
+Hey, I’m Ashmit 👋  a Fullstack Developer 💻 and BCA student 🎓 at Pokhara University. I’m all about building cool stuff, leveling up in system design.
 ![Snake Animation](https://github.com/Ashmit72/snk/blob/output/github-contribution-grid-snake-dark.svg)
 <!--
 **Ashmit72/Ashmit72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
